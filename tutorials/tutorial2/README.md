@@ -13,3 +13,14 @@ This project is a simple React single-page application (SPA) created using Vite.
 ## Authors
 
 * [Malhar Mahajan](ml575444@dal.ca) - *(Student / Developer)*
+
+---
+
+---
+
+## Built With
+
+* [React](https://react.dev/) - Front-end UI library
+* [Vite](https://vitejs.dev/) - Development server and build tool
+* [React Router DOM](https://reactrouter.com/) - Client-side routing
+* [Node.js](https://nodejs.org/) - JavaScript runtime environment
