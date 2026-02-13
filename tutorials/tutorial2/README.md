@@ -1,16 +1,15 @@
-# React + Vite
+# Tutorial 2 — React Router + Form (Vite + React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple React single-page application (SPA) created using Vite. It demonstrates client-side routing with `react-router-dom`, a basic registration form, validation helpers, and navigation to a profile page that displays submitted user information.
 
-Currently, two official plugins are available:
+* *Date Created*: 13 Feb 2026
+* *Last Modification Date*: 13 Feb 2026
+* *Lab URL*: https://tiny-basbousa-4544ee.netlify.app/
+* *GitLab URL*: https://git.cs.dal.ca/mdmahajan/csci4177-5709/tutorials/tutorial2.git
+* *GitHub URL*: https://github.com/MaafiaTroodon/csci4177-5709/tutorials/tutorial2.git
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## Authors
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* [Malhar Mahajan](ml575444@dal.ca) - *(Student / Developer)*
