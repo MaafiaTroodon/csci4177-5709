@@ -1,13 +1,13 @@
-FName LName
+Malhar Mahajan B00934337 ml575444@dal.ca
 CSCI 4177/5709 - Tutorial 3 (Front-End Frameworks II)
 Winter 2026
 
 Repository Links
-- GitHub (private): https://github.com/<your-username>/csci4177-5709
-- GitLab (private): https://git.cs.dal.ca/<your-netid>/csci4177-5709
+- GitHub (private): https://github.com/MaafiaTroodon/csci4177-5709/tree/main/tutorials/tutorial3.git
+- GitLab (private): https://git.cs.dal.ca/mdmahajan/csci4177-5709/main/tutorials/tutorial3.git
 
 Deployment Link (Netlify)
-- https://<your-netlify-site>.netlify.app
+- https://dulcet-cuchufli-03a9e7.netlify.app/login
 
 Tutorial 3 Folder
 - tutorials/tutorial3
@@ -45,8 +45,3 @@ Build
 1) npm run build
 2) (optional) npm run preview
 
-Notes for Submission
-- Rename this file to: FName_LName_README.txt before Brightspace submission.
-- Ensure this README includes BOTH GitHub + GitLab repo links and Netlify deployment link.
-- Keep repositories private.
-- Add instructor and TAs as Maintainers on GitLab (required for marking).
