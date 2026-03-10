@@ -1,0 +1,16 @@
+{
+  "name": "tutorial4-backend",
+  "version": "1.0.0",
+  "description": "CSCI 4177/5709 Tutorial 4 backend APIs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
