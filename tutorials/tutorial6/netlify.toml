@@ -1,0 +1,32 @@
+[build]
+  functions = "netlify/functions"
+
+[[redirects]]
+  from = "/create"
+  to = "/.netlify/functions/create"
+  status = 200
+  methods = ["POST"]
+
+[[redirects]]
+  from = "/users"
+  to = "/.netlify/functions/getUsers"
+  status = 200
+  methods = ["GET"]
+
+[[redirects]]
+  from = "/users/:id"
+  to = "/.netlify/functions/getUserById?id=:id"
+  status = 200
+  methods = ["GET"]
+
+[[redirects]]
+  from = "/update/:id"
+  to = "/.netlify/functions/updateUser?id=:id"
+  status = 200
+  methods = ["PUT"]
+
+[[redirects]]
+  from = "/delete/:id"
+  to = "/.netlify/functions/deleteUser?id=:id"
+  status = 200
+  methods = ["DELETE"]
