@@ -3,13 +3,13 @@ CSCI 4177/5709 Winter 2026
 Tutorial 6: REST API with Database [Individual Deliverable]
 
 GitHub Repository:
-<PASTE_GITHUB_REPO_LINK>
+https://github.com/MaafiaTroodon/csci4177-5709.git
 
 GitLab Repository:
-<PASTE_GITLAB_REPO_LINK>
+https://git.cs.dal.ca/mdmahajan/csci4177-5709/tutorials/tutorial6.git
 
 Deployment Link:
-<PASTE_DEPLOYMENT_LINK>
+https://csci4177-tutorial6.onrender.com/
 
 Overview:
 This tutorial is a backend-only REST API built with Node.js and Express. The application is connected to a MongoDB Atlas database using Mongoose. It supports CRUD-style user operations required for Tutorial 6:
